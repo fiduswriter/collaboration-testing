@@ -4,7 +4,7 @@ HOWTO
 Test driver
 ====
 
-1. Download Chrome driver selenium and put in the same directory.
+1. Install Selenium chromedriver.
 
 2. Enter the virtual fiduswriter environment (or create a new one).
 
