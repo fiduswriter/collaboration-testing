@@ -1,3 +1,5 @@
+# flake8: noqa
+
 SERVER_ADDRESS = ''
 USER_ID = ''
 USER_PW = ''
